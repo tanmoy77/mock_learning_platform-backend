@@ -48,6 +48,11 @@
       "role": "student",
       "name": "Arif",
       "id": 7
+    },
+    {
+      "email": "Tanmoyjoy@gmail.com",
+      "password": "$2a$10$IMjUbCKaJ83uzdD5qB3l.ObZZ76tx0FrOu2zEmAtGJCaqzQEvygQy",
+      "id": 8
     }
   ],
   "videos": [
